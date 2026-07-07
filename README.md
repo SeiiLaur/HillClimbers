@@ -1,6 +1,6 @@
 # HillClimbers
 _______________________________________________________________
-<img width="880" height="260" alt="image" src="https://github.com/user-attachments/assets/bc81bf5b-1dc2-41a4-b570-11ff8d91ceaa" />
+<img width="174" height="219" alt="image" src="https://github.com/user-attachments/assets/65ccd0b5-eaec-4268-8669-5b67da78850b" />
 
 _______________________________________________________________
 # HIIIIII!!!
